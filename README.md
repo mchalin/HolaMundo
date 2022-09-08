@@ -1,5 +1,5 @@
 # HolaMundo
 
-# Mi primer repositorio! UTN BsAs
+Mi primer repositorio! UTN BsAs
 
-# Me gusta programar y jugar videojuegos! :code: :video_game:
+Me gusta programar y jugar videojuegos! :code: :video_game:
